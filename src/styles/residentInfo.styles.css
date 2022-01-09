@@ -1,7 +1,7 @@
 .card-resident {
    height: 8rem;
    width: 90%;
-   background-color: rgba(84, 74, 105, 0.671);
+   background-color: rgba(100, 91, 119, 0.671);
    border-radius: 1rem;
    margin-bottom: 1rem;
    padding: 5px;
@@ -24,7 +24,7 @@
 }
 .container-info > h3 {
    margin-bottom: 5px;
-   color: rgb(156, 153, 182);
+   color: rgb(178, 176, 194);
 }
 .container-info > article {
    display: flex;
