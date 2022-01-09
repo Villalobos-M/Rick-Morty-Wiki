@@ -1,6 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import axios from 'axios';
-//stylrs
+//styles
 import "../styles/residentInfo.styles.css"
 const ResidentInfo = (resident) => {
 
